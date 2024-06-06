@@ -2,7 +2,7 @@
 # FEE FUNDRAISER 
 Project Management Plan 
 1. Executive Summary
-Project Name: Community Development Fundraiser
+Project Name: Fee fundraiser
 Project Manager: [ Maryhope ]
 Project Start Date: [3rd June 2024]
 Project End Date: [August 3rd 2024]
@@ -18,17 +18,13 @@ Promote the mission and values of the organizing entity.
 Fundraising Events:
 Online crowdfunding campaign
 Charity auction
-Community fair
-Gala dinner
+Gala dinner for the sponsors
 Promotional Activities:
-Social media marketing
 Email newsletters
-Press releases
 Flyers and posters
 Partnerships:
 Collaborations with local businesses
 Sponsorships
-Media partnerships
 4. Project Team and Stakeholders
 Project Team:
 Project Manager: Maryhope Mwanzia 
@@ -40,8 +36,6 @@ Stakeholders:
 Donors
 Volunteers
 Community members
-Local businesses
-Media partners
 5. Timeline
 Phase 1: Planning (Month 1)
 Define goals and objectives
@@ -107,8 +101,7 @@ Increase visibility of the organization and its mission.
 Build a network of supporters and donors for future initiatives.
 Purpose:
 
-Fundraising for Specific Projects: The primary purpose is to gather the necessary financial resources to fund a specific project or cause that benefits the community or a target group.
-Community Engagement: Foster a sense of community and encourage participation from a broad audience, strengthening the communal bonds and creating a unified effort towards a common goal.
+Fundraising for Specific Projects: The primary purpose is to gather the necessary financial resources to fund education fee.
 Awareness and Advocacy: Raise awareness about the cause or project, educating the community and advocating for support, while promoting the values and mission of the organizing entity.
 Sustainability and Growth: Ensure the sustainability of the organization’s efforts and pave the way for future growth by expanding the donor base and establishing long-term relationships with sponsors and partners.
 
